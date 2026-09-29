@@ -27,13 +27,9 @@ The game combines logic puzzles with a lighthearted farm setting and a noir-insp
 ### Visconde — Lead Programmer
 
 Responsible for:
-
 * Game systems and gameplay programming
-* Data-driven case architecture
 * Level design
-* Level design tools
 * Asset integration
-* Team task management and priorities
 
 The main technical challenge was building the investigation system so that new cases could be created by combining existing systems and configuring data, rather than writing new gameplay code for every case.
 
@@ -49,7 +45,7 @@ Responsible for the game's music.
 
 ### GrizTall — Sound Design
 
-Responsible for the game's sound design.
+Responsible for the game's sound design and audio implementation.
 
 ---
 
